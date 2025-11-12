@@ -1,0 +1,2 @@
+the MIT license
+Copyright (c) 2025 myoung-jae-seok
